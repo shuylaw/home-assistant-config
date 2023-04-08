@@ -1,0 +1,31 @@
+spelling_speaker:
+  name: Spelling Speaker
+  description: Reads out the spelling list for popo
+  fields:
+    entity_id:
+      description: The speaker that will be giving spelling
+      example: media_player.ke_ting_speaker
+    sentences:
+      description: The words and sentences to speak in the format 'word. sentence'
+      example: 
+        "- spicy. The chili is spicy\n- giant. The giant is loud and scary"
+    delay:
+      description: The number of seconds to pause between each spelling word
+      example: 15
+
+chinese_spelling:
+  name: Chinese Spelling Speaker
+  description: Reads out the chinese spelling list for popo
+  fields:
+    entity_id:
+      description: The speaker that will be giving ting xie
+      example: media_player.ke_ting_speaker
+    sentences:
+      description: The non-pinyin word or sentence to be given
+      example: "- 目\n- 口"
+    pinyin:
+      description: The pinyin word or sentence to be given; please write the actual word for google to read and not the pinyin
+      example: "- 狗\n- 功课"
+    delay:
+      description: The number of seconds to pause between each spelling word
+      example: 15

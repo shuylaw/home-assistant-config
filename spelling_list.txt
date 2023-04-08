@@ -1,0 +1,10 @@
+  - spicy. Chili is spicy
+  - crispy. I love crispy biscuits
+  - salty. The soup is too salty
+  - sour. The oranges are sour
+  - crunchy. The cookies are crunchy
+  - delicious. I love delicious food
+  - bitter. Some medicine taste bitter
+  - cold. Cold drinks taste the best on a hot day
+  - bland. This porridge is too bland! exclaimed Tom
+  - sweet. My father buys a sweet strawberry cake for me every month
